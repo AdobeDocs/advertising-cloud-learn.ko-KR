@@ -15,7 +15,7 @@ ht-degree: 30%
 
 # Advertising Cloud 튜토리얼
 
-[!DNL Advertising Cloud] Tutorials 사이트를 시작합니다. 이러한 자습서를 [설명서](https://helpx.adobe.com/support/advertising-cloud.html)와 함께 사용하면 Adobe Advertising Cloud을 사용하여 보다 신속하게 고객 통찰력을 얻는 방법을 보다 잘 이해할 수 있습니다.
+에 오신 것을 환영합니다 [!DNL Advertising Cloud] Tutorials 사이트. 와 함께 이러한 자습서 사용 [설명서](https://helpx.adobe.com/support/advertising-cloud.html) 는 Adobe Advertising Cloud을 사용하여 보다 신속하게 고객 통찰력을 얻는 방법을 보다 잘 이해할 수 있도록 해줍니다.
 
 <!--
 See other -learn tutorials landing pages to get ideas for additional content
