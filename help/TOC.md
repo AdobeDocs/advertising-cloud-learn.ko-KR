@@ -3,10 +3,10 @@ user-guide-title: Adobe Advertising Cloud 튜토리얼
 user-guide-description: Adobe Advertising Cloud에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Advertising Cloud 튜토리얼
 solution: Advertising Cloud
-source-git-commit: 0820d9d650e21ca2ebab35efe5400eea7d611d66
+source-git-commit: 3814915ff4ab6709c480812478cb7719f3004a84
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '116'
+ht-degree: 18%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 0%
 + DSP {#dsp}
    + [Advertising Cloud DSP 소개](/help/dsp/overview.md)
    + [계정 구조 및 사용자 인터페이스](/help/dsp/ui.md)
-   + [타사 태그를 대량 업로드하는 방법](/help/dsp/bulk-upload-third-party-ad-tags.md)
-   + [벌크 편집 도구 사용 방법](/help/dsp/bulk-edit-placement-tools.md)
+   + [타사 광고 태그를 대량 업로드하는 방법](/help/dsp/bulk-upload-third-party-ad-tags.md)
+   + [벌크 편집 도구를 사용하여 배치를 편집하는 방법](/help/dsp/bulk-edit-placement-tools.md)
 + Advertising Cloud용 Analytics {#analytics}
    + [A4AdC 소개](/help/integrations/analytics/intro-a4adc.md)
    + [Advertising Cloud 사이트 시작 보고서 만들기](/help/integrations/analytics/analytics-site-entry-a4adc.md)
