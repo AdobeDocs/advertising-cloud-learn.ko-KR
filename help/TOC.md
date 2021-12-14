@@ -3,7 +3,7 @@ user-guide-title: Adobe Advertising Cloud 튜토리얼
 user-guide-description: Adobe Advertising Cloud에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Advertising Cloud 튜토리얼
 solution: Advertising Cloud
-source-git-commit: dffd703372fd2b14e3f13d1c6c9a754301a6b0ac
+source-git-commit: 8dc83853ba6aeb4c46fea84ebd450fbaa20e928c
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 17%
@@ -31,7 +31,7 @@ ht-degree: 17%
    + [Adobe Analytics을 사용하여 Advertising Cloud 대시보드 만들기](/help/integrations/analytics/analytics-dashboards-a4adc.md)
    + [Advertising Cloud 데이터를 사용하여 Analytics 사용자 지정 지표 만들기](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
 
-<!-- Will add to DSP chapter once the videos are complete:
+<!-- Add to DSP chapter once the videos are complete:
   + [How to Create a Placement](/help/dsp/placement-create.md)
   + [Placement Targeting Capabilities](/help/dsp/placement-targeting.md)
   + [Audience Libraries and Applying Behavioral Targeting](/help/dsp/audience-libraries.md)
