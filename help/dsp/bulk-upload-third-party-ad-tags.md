@@ -1,9 +1,10 @@
 ---
-title: Advertising Cloud DSP용 타사 광고 태그를 일괄 업로드하는 방법
+title: DSP용 타사 광고 태그를 벌크 업로드하는 방법
 description: 한 번에 여러 타사 광고 태그를 업로드하는 방법을 알아봅니다.
-source-git-commit: bc4c9b3852211e25ef1981c38d03e3bb47c60964
+exl-id: 1681440a-4b20-4819-a649-8754a2d143bc
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---
