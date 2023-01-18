@@ -1,8 +1,7 @@
 ---
 title: Advertising DSP Adobe 소개
 description: Advertising DSP Adobe과 이 기능이 미디어 캠페인에 어떻게 유용할 수 있는지에 대해 알아봅니다.
-exl-id: 6aa44b8e-da4d-4141-b7b5-989046586315
-source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
+source-git-commit: 3ea5208bb5cc560a1563cfd9b9647462560d7e67
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%

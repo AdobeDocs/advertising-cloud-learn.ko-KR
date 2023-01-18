@@ -1,8 +1,7 @@
 ---
 title: DSP에 대한 표준 디스플레이 배치를 만드는 방법
 description: 표준 디스플레이 배치를 만드는 방법을 알아봅니다.
-exl-id: 5eb60b2b-e3c7-4faf-887c-f14a9c50d2b5
-source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
+source-git-commit: 3ea5208bb5cc560a1563cfd9b9647462560d7e67
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 0%

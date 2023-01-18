@@ -1,8 +1,7 @@
 ---
 title: Adobe Analytics을 사용하여 사전 실행 캠페인 분석 만들기
 description: Adobe Analytics을 사용하여 Adobe 광고 유료 미디어 캠페인을 시작하는 기반을 설정하는 방법을 알아봅니다.
-exl-id: a19e4ccb-7b32-461c-8d55-874524509c06
-source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
+source-git-commit: 3ea5208bb5cc560a1563cfd9b9647462560d7e67
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
